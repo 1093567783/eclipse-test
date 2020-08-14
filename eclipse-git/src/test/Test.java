@@ -5,5 +5,6 @@ public class Test {
 		
 		System.out.println("lym第一次提交");
 		System.out.println("ljx第一次提交");
+		System.out.println("当lym使用分支时，ljx第二次提交");
 	}
 }
